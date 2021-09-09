@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://drive.google.com/file/d/1440FiIiMgUMZIqkI1YeYGJ-Ccsb7gPMo/view?usp=sharing"
+- url : "files/Emtsev_Daniil_CV.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?
