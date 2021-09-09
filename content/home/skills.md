@@ -30,14 +30,14 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  parcent = "70%"
+  parcent = "100%"
 
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  parcent = "70%"
+  parcent = "40%"
 
 
 [[feature]]
