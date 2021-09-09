@@ -38,6 +38,12 @@
 #  url = "courses/"
 # weight = 50
 
+#[[main]]
+#  name = "certificates"
+#  url = "#certificates"
+#  weight = 55 
+
+
 [[main]]
   name = "Contact"
   url = "#contact"
