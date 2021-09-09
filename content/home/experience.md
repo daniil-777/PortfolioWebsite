@@ -66,7 +66,6 @@ date_format = "Jan 2006"
  [[experience]]
   title = "Machine Learning Engineer"
   company = "Advanced Data Analytics in Science and Engineering Group"
-  company = "Institute for Information Transmission Problems"
   company_url = "http://adase.group/"
   location = "Moscow, Skoltech"
   date_start = "2019-02-01"
