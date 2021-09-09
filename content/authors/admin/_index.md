@@ -66,6 +66,9 @@ social:
   icon_pack: ai
   link: files/Emtsev_Daniil_CV.pdf
 
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/emtsevdaniil/
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
