@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Plany Occupancy Networks"
+title: "Dynamic Plane Occupancy Networks"
 authors:
 - admin
 - Stefan Lionar
