@@ -20,11 +20,6 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   name = "Statistics"
   parcent = "90%"
   
-[[feature]]
-  icon = "user-secret"
-  icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
   
 [[feature]]
   icon = "python"
@@ -34,17 +29,10 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 
 
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  parcent = "40%"
-
-
-[[feature]]
   icon = "c_icon"
   icon_pack = "fab"
   name = "c++"
-  parcent = "70%"
+  parcent = "80%"
 
 [[feature]]
   icon = "c"
@@ -53,9 +41,20 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = "70%"
 
 [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  parcent = "60%"
+  
+[[feature]]
   icon = "searchengin"
   icon_pack = "fab"
   name = "Research"
   parcent = "95%"
 
+[[feature]]
+  icon = "user-secret"
+  icon_pack = "fas"
+  name = "Leadership"
+  parcent = "80%"  
 +++
