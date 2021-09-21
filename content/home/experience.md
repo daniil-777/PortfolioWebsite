@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Software Engineer"
-  company = "Toyota Research Center in Europe"
+  company = "Toyota Research Center in Europe (ETH Zurich Computer Vision Lab)"
   company_url = "https://www.trace.ethz.ch/"
   location = "Zurich"
   date_start = "2021-04-01"
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Achieved 2x speedup of iterations to improve neural network quality
   * Implemented algorithms on point clouds and improved the accuracy of localization by 5%
-  * Wrote a paper
+  <!-- * Wrote a paper -->
   """
 
 [[experience]]
