@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Software Engineer"
-  company = "Toyota Research on Automated Cars in Europe (TRACE) (ETH Zurich Computer Vision Lab)"
+  title = "Master thesis student"
+  company = "Computer Vision Lab at ETH Zurich (in collaboration with Toyota research on automated cars in Europe)"
   company_url = "https://www.trace.ethz.ch/"
   location = "Zurich"
   date_start = "2021-04-01"
@@ -27,8 +27,9 @@ date_format = "Jan 2006"
   description = """Master’s thesis on 2D image and 3D point cloud matching, 3D geometry, and deep learning.
 
   
-  * Achieved 2x speedup of iterations to improve neural network quality
-  * Implemented algorithms on point clouds and improved the accuracy of localization by 5%
+  
+  * Implemented algorithms on images point clouds and improved the accuracy of image localization by 50%
+  * Submitted the work to CVPR 2022
   <!-- * Wrote a paper -->
   """
 
