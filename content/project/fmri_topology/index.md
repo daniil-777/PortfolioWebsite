@@ -1,5 +1,5 @@
 ---
-title: Topologival data analysis on FMRI
+title: Topological data analysis on FMRI
 summary: Implemented RNN with self attention and transformer for gesture recognition
 tags:
 - Topological Data Analysis
