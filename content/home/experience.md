@@ -30,11 +30,13 @@ date_format = "Jan 2006"
   
   * Implemented algorithms on images point clouds and improved the accuracy of image localization by 50%
   * Submitted the work to CVPR 2022
+
+   * [Download Report](https://drive.google.com/file/d/1Gcd11XRxMImM4ndHwg1Ab_nrRrB2ibcn/view)
   <!-- * Wrote a paper -->
   """
 
 [[experience]]
-  title = "Research Software Engineer"
+  title = "R&D Software Engineering Student"
   company = "Computer-Assisted Drug Design, Rethink"
   company_url = "https://blogs.ethz.ch/RETHINK/"
   location = "Zurich"
@@ -49,7 +51,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Intern"
+  title = "R&D Software Engineer"
   company = "Data Analytics in Science and Engineering"
   company_url = "http://adase.group/"
   location = "Moscow, Skoltech"
@@ -65,10 +67,10 @@ date_format = "Jan 2006"
 
 
  [[experience]]
-  title = "Machine Learning Engineer"
-  company = "Advanced Data Analytics in Science and Engineering Group"
+  title = "Bachelor thesis student"
+  company = "Institute for Information Transmission Problems"
   company_url = "http://adase.group/"
-  location = "Moscow, Skoltech"
+  location = "Moscow"
   date_start = "2019-02-01"
   date_end = "2019-06-01"
   description = """

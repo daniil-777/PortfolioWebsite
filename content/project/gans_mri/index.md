@@ -1,13 +1,13 @@
 ---
 title: GANs for visual feature attribution on MRI
-summary: Investigated loss surface of a neural network via topological features
+summary: Developed GANs and visualization tool for disease recognition in MRI scans
 tags:
 - Visualisation
 - Deep Learning
 - GANS
 - MRI
 - Image Analysis
-- Computr Vision
+- Computer Vision
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
