@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
   
   
-  * Implemented algorithms on images point clouds and improved the accuracy of image localization by 50%
+  * Implemented algorithms on images, point clouds and improved the accuracy of image localization by 50%
   * Submitted the work to CVPR 2022
 
    * [Download Report](https://drive.google.com/file/d/1Gcd11XRxMImM4ndHwg1Ab_nrRrB2ibcn/view)
