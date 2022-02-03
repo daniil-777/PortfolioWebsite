@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Master thesis student"
-  company = "Computer Vision Lab at ETH Zurich (in collaboration with Toyota research on automated cars in Europe)"
-  company_url = "https://www.trace.ethz.ch/"
+  company = "Computer Vision Lab at ETH Zurich"
+  company_url = "https://vision.ee.ethz.ch/"
   location = "Zurich"
   date_start = "2021-04-01"
   date_end = ""
