@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Master thesis student"
-  company = "Computer Vision Lab at ETH Zurich"
+  company = "Computer Vision Lab at ETH Zurich (in collaboration with Toyota Research on automated cars in Europe)"
   company_url = "https://vision.ee.ethz.ch/"
   location = "Zurich"
   date_start = "2021-04-01"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   
   
   * Implemented algorithms on images, point clouds and improved the accuracy of image localization by 50%
-  * Submitted the work to CVPR 2022
+  * Patented the method with Toyota
 
-   <!-- * [Download Report](https://drive.google.com/file/d/1Gcd11XRxMImM4ndHwg1Ab_nrRrB2ibcn/view) -->
+   * [Download Report](https://drive.google.com/file/d/1cwa2l8W2-8Z2oEf1tnZWvFj-KjK4_idT/view?usp=sharing)
   <!-- * Wrote a paper -->
   """
 

@@ -1,5 +1,5 @@
 ---
-title: Fluid Simulation
+title: Agorithms
 summary: Implemented different algorithms
 tags:
 - Algorithms
