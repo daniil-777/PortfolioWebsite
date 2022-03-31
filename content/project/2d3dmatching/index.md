@@ -21,11 +21,11 @@ image:
   caption: Pipeline
   # focal_point: Center
 
-# url_pdf: "https://drive.google.com/file/d/1Gcd11XRxMImM4ndHwg1Ab_nrRrB2ibcn/view"
-# url_slides: "https://docs.google.com/presentation/d/1LTM2LIVPwKwB8-QyUFUcUJEmf9VPbudI/edit?rtpof=true&sd=true"
+url_pdf: "https://drive.google.com/file/d/1cwa2l8W2-8Z2oEf1tnZWvFj-KjK4_idT/view?usp=sharing"
+url_slides: "https://docs.google.com/presentation/d/1LTM2LIVPwKwB8-QyUFUcUJEmf9VPbudI/edit?rtpof=true&sd=true"
 
-url_pdf: ""
-url_slides: ""
+# url_pdf: ""
+# url_slides: ""
 
 # url_code: https://github.com/daniil-777/deep-gesture
 # url_slides: "https://drive.google.com/file/d/1qVPYIvNgDkFQeR7p9pp5sGsppMGXf_iY/view?usp=sharing"
