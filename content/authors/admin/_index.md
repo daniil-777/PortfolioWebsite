@@ -18,7 +18,7 @@ role: Machine Learning Expert/ETH Zurich alumni
 
 # Organizations/Affiliations
 organizations:
-- name: ETH Zurich
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
