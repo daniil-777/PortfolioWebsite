@@ -16,7 +16,7 @@ image:
   caption: Pipeline
   # focal_point: Center
 
-url_code: https://github.com/daniil-777/Shape-modeling
+url_code: https://github.com/daniil-777/Comp_Geometry
 # url_slides: ""
 # url_video: https://www.youtube.com/watch?v=h50qWqGD4Yk
 ---

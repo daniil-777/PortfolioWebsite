@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: MS student in Computational Science and Engineering
+role: Software Engineer/Machine Learning Expert/ETH Zurich alumni
 
 # Organizations/Affiliations
 organizations:
