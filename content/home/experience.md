@@ -78,6 +78,7 @@ date_format = "Jan 2006"
 
   * Developed a pipeline for FMRI images classification
   * Improved the classification accuracy by 10%
+  * [Download Report](https://drive.google.com/file/d/1FAlMv-IWJM_IO9TYQA_W9z5kI2gjPxhd/view?usp=sharing)
 
   """
 

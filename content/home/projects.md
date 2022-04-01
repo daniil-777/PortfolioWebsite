@@ -24,7 +24,10 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
+  [[content.filter_button]]
+    name = "Algorithms"
+    tag = "Algorithms"
+    
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
@@ -99,9 +102,7 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   [[content.filter_button]]
     name = "Computer Graphics"
     tag = "Computer Graphics"
-  [[content.filter_button]]
-    name = "Algorithms"
-    tag = "Algorithms"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
