@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Machine Learning Expert/ETH Zurich alumni
+role: Machine Learning Expert/ETH Zurich master in computational science and engineerng
 
 # Organizations/Affiliations
 organizations:
