@@ -1,5 +1,5 @@
 ---
-title: Agorithms
+title: Algorithms
 summary: Implemented different algorithms
 tags:
 - Algorithms
